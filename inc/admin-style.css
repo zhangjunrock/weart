@@ -1,0 +1,10 @@
+#login {
+	padding: 54px 0 0;
+}
+.login h1 a {
+	background-image: url('../images/headerlogo.gif');
+	background-size: 274px 110px;
+	background-position: top center;
+	background-repeat: no-repeat;
+	height: 88px;
+}

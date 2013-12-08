@@ -1,0 +1,63 @@
+a:hover, .topLine h2 a:hover,.hentry h2 a:hover,.hentry a:hover,.widget_randposts li a:hover,.widget_activities dt a:hover,#related a:hover,.comment-author strong a,.comment-author strong,#wp-calendar a{
+	color: #3b7fc4;
+}
+.nav,#searchform #searchsubmit,.widget_tagclouds a strong,.widget_activities dd a,.pages span,#loginform .submit {
+	background-color: #488fce;
+}
+.nav a:hover,.nav .current-menu-item a {
+	background: #3b7fc4;
+}
+.signOut .adminComments {
+	background: #488fce;
+}
+.header .search {
+	border:0;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.2) inset;
+	background-color: #f2f2f2;
+}
+.search.fold {
+	background-color:transparent;
+	box-shadow:none;
+	border:0
+}
+.search.fold:hover {
+	border:0;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.2) inset;
+	background-color: #f2f2f2;
+}
+input#s {
+	color: #999;
+}
+.search input::-webkit-input-placeholder {
+	color:#999
+}
+#searchform input#s {
+	border-color: #488fce;
+}
+#qmenu .qmenua:hover, #qmenu.open .qmenua {
+	box-shadow: 0 1px 3px rgba(0,0,0,0.2) inset;
+	border:0;
+	background-color: #3b7fc4;
+}
+.qmenu-drop,#loginform .submit {
+	border: 1px solid #488fce;
+}
+.qmenu-drop:before {
+	border-color: transparent transparent #488fce transparent;
+}
+#submit, #btnsubmit {
+	float: right;
+	background: #488fce;
+	background: -webkit-linear-gradient(top,#3b7fc4;,#488fce);
+	background: -moz-linear-gradient(top,#3b7fc4;,#488fce);
+	background: -ms-linear-gradient(top,#3b7fc4;,#488fce);
+	background: -o-linear-gradient(top,#3b7fc4;,#488fce);
+	background: linear-gradient(top,#3b7fc4;,#488fce);
+}
+.widget_hotandnew .topRank em {
+	border: 2px solid red;
+	color: red;
+}
+.widget_activities dd a:hover {
+	background: #3b7fc4;
+}
